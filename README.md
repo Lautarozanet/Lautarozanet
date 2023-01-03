@@ -2,7 +2,7 @@
 <div align="center"><h4>Este es mi Perfil de Github</h4>
 
 <p align='center'>
-Soy Programador Web</b> 
+Soy Programador Web Full Stack!</b> 
 </p></div>
 
 <div align="center">
@@ -11,7 +11,35 @@ Soy Programador Web</b>
 
 </div>
 
-⚡ Actualmente estoy terminando la carrera de desarrollador web full stack en SOY HENRY.
+⚡ Me considero un entusiasta del mundo IT, encontrándome constantemente en formación en materia de desarrollo web. Hoy en día manejo cierto Stack de tecnologías y aspiro a ampliar las mismas dado que en este ambiente uno nunca deja de aprender y superarse dia a dia. Recientemente finalice mis estudios de la carrera de Desarrollador Web Full Stack en Soy Henry. Como proyecto final, con mis compañeros de equipo, realizamos un e-commerce en donde llevamos a la practica todas las herramientas aprendidas a lo largo del bootcamp. Hoy mi interés se encuentra en la búsqueda de una empresa o startup orientada al desarrollo constante de aplicaciones web, e-commerce o herramientas que faciliten al usuario la administración de su empresa o negocio. Considero que nada de esto podría ser posible sin un equipo de trabajo compuesto con personas extrovertidas, sociables y tanto motivadas como motivadoras.
+
+✔️ Tech Skills: React.JS | Redux.JS | JavaScript | HTML5 | CSS3 | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
+
+
+✔️ Otras Skills:
+ - Deploy
+ - Flujo de trabajo de GIT.
+ - GitHub
+ - POSTMAN Api Platform.
+ - Figma
+ - Trello
+ - Railway
+ - Slack
+
+✔️ Soft Skills: 
+ - Trabajo en equipo
+ - Flexibilidad frente a cambios
+ - Resolución de problemas
+ - Creatividad e innovación
+ - Comunicación y empatía
+ - Pensamiento analítico y toma de decisiones 
+ - Optimismo y capacidad de aprendizaje continuo
+ - Extrovertido
+
+📞 Datos de Contacto: 
+ - WhatsApp: +54 11 6148-0329
+ - Correo: Lautaro.zanet@outlook.com
+ - LinkedIn: https://www.linkedin.com/in/lautarozanet/
 
 ---
 ###  Tecnologías, Lenguajes, Frameworks y Herramientas!
