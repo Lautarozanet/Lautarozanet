@@ -73,8 +73,3 @@ conecta conmigo 💬:
 </p>
 
 
-📞 Datos de Contacto: 
- - WhatsApp: +54 11 6148-0329
- - Correo: Lautaro.zanet@outlook.com
- - LinkedIn: https://www.linkedin.com/in/lautarozanet/
-
