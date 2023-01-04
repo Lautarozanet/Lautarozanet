@@ -61,9 +61,9 @@
 
 ---
 
-Como contactarme? 📫 -> Lautaro.zanet@outlook.com
+How to contact me? 📫 -> Lautaro.zanet@outlook.com
 
-conecta conmigo 💬:
+connect with me 💬:
 
 <p align="left">
 <a href="https://twitter.com/z_lautaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LautaroZanet" height="30" width="40" /></a>
