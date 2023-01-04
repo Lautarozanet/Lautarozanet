@@ -1,8 +1,9 @@
-<h1 align='center'> Hola! Mi nombre es Lautaro Zanet👨‍💻 </h1>
-<div align="center"><h4>Este es mi Perfil de Github</h4>
+<h1 align='center'> Hi! Mi name is Lautaro Zanet👨‍💻 </h1>
+<div align="center"><h4>Welcome to my Github!</h4>
 
 <p align='center'>
-Soy Programador Web Full Stack!</b> 
+⚡ I´m an enthusiastic Web Full Stack Developer, passionate about programming, languages and having big demanding tasks on my to-do list.</b> 
+🌱 Constantly learning, life is better when growing.
 </p></div>
 
 <div align="center">
@@ -11,52 +12,47 @@ Soy Programador Web Full Stack!</b>
 
 </div>
 
-⚡ Me considero un entusiasta del mundo IT, encontrándome constantemente en formación en materia de desarrollo web. Hoy en día manejo cierto Stack de tecnologías y aspiro a ampliar las mismas dado que en este ambiente uno nunca deja de aprender y superarse dia a dia. Recientemente finalice mis estudios de la carrera de Desarrollador Web Full Stack en Soy Henry. Como proyecto final, con mis compañeros de equipo, realizamos un e-commerce en donde llevamos a la practica todas las herramientas aprendidas a lo largo del bootcamp. Hoy mi interés se encuentra en la búsqueda de una empresa o startup orientada al desarrollo constante de aplicaciones web, e-commerce o herramientas que faciliten al usuario la administración de su empresa o negocio. Considero que nada de esto podría ser posible sin un equipo de trabajo compuesto con personas extrovertidas, sociables y tanto motivadas como motivadoras.
+##GOALS FOR 2023:
+- Learn about React Native, Typescript and Next.js.
+- Finish my first app on android and publish it on play store.
+- Grow as a person.
 
-✔️ Tech Skills: React.JS | Redux.JS | JavaScript | HTML5 | CSS3 | Node.JS | Express.JS | Sequelize.JS | PostgreSQL | SQL
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-✔️ Otras Skills:
- - Deploy
- - Flujo de trabajo de GIT.
- - GitHub
- - POSTMAN Api Platform.
- - Figma
- - Trello
- - Railway
- - Slack
 
-✔️ Soft Skills: 
- - Trabajo en equipo
- - Flexibilidad frente a cambios
- - Resolución de problemas
- - Creatividad e innovación
- - Comunicación y empatía
- - Pensamiento analítico y toma de decisiones 
- - Optimismo y capacidad de aprendizaje continuo
- - Extrovertido
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+</div>
 
-📞 Datos de Contacto: 
- - WhatsApp: +54 11 6148-0329
- - Correo: Lautaro.zanet@outlook.com
- - LinkedIn: https://www.linkedin.com/in/lautarozanet/
+</td><td valign="top" width="33%">
 
----
-###  Tecnologías, Lenguajes, Frameworks y Herramientas!
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
 
-<p >
-  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
- <br>
- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node js" alt="Node js"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="Postgresql"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" title="Babel" alt="Babel"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize"/>
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack"/>
-  
----
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
 
 ###  Insignias ONE Alura Latam Challenges
 
@@ -75,3 +71,10 @@ conecta conmigo 💬:
 <a href="https://www.facebook.com/profile.php?id=100001165256795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="LautaroZanet" height="30" width="40" /></a>
 <a href="https://instagram.com/Lautaro.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LautaroZanet" height="30" width="40" /></a>
 </p>
+
+
+📞 Datos de Contacto: 
+ - WhatsApp: +54 11 6148-0329
+ - Correo: Lautaro.zanet@outlook.com
+ - LinkedIn: https://www.linkedin.com/in/lautarozanet/
+
